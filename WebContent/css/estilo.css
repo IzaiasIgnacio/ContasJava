@@ -1,0 +1,76 @@
+.container {
+	width: 100%;
+	margin-top: 10px;
+	margin-left: 4%;
+}
+.btn_recalcular {
+	float: right;
+	margin-right: 9%;
+}
+.table {
+	width: 22%;
+	float: left;
+	margin-right: 15px;
+	box-shadow: 5px 5px 5px #333;
+}
+.table thead {
+	font-size: 1.8em;
+	color: #fff;
+}
+.table thead td {
+	text-align: right;
+}
+th {
+	text-align: center;
+}
+.table tbody, .table tfoot {
+	font-size: 1.5em;
+	cursor: pointer;
+}
+a {
+	color: #fff;
+}
+p {
+	margin: 0;
+}
+.td_add_gasto {
+	text-align: right;
+	background-color: #272b30;
+	padding: 2px !important;
+}
+.btn_add_gasto {
+	padding: 8px;
+	font-weight: bold;
+}
+.tipo_registro {
+	font-weight: bold;
+}
+.btn {
+	font-weight: bold;
+}
+.btn-danger {
+	float: right;
+}
+.glyphicon {
+	top: 0 !important;
+}
+body {
+	background-color: #ccc;
+	color: #fff !important;
+	font-size: 12px;
+	font-family: Tahoma, Geneva, sans-serif
+}
+.erro {
+	background-color: #FFCCC9;
+}
+.tooltip-inner {
+	padding: 6px;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFF;
+	background: #FF3c3c;
+	border: solid 2px #FFF;
+}
+.tooltip-arrow {
+	border-top-color: #fff !important;
+}
